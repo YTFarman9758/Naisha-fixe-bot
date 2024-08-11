@@ -3,7 +3,7 @@ bard
 pornhub-api==0.2.0
 opencv-python-headless==4.9.0.80
 pytube
-aiohttp==3.9.3
+aiohttp==3.10.3
 asyncio==3.4.3
 beautifulsoup4
 blackpink
