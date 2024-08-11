@@ -41,7 +41,7 @@ speedtest-cli
 spotipy
 tgcrypto
 telegraph
-telethon==1.33.1
+telethon==1.36.0
 unidecode
 yt-dlp @ git+https://github.com/Badmunda98/yt-dp-fork
 youtube-search
